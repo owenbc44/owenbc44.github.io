@@ -1,10 +1,24 @@
-body {
-    color: indigo;
+h1 {
+    color: #FCA311;
+    font-size: 200%;
 }
 
-.cooltext {
-    font-size: 200px;
-    color: blue;
+h3 {
+    color: #E5E5E5;
+    font-size: 100%;
+}
+
+html {
+    background-color: #14213D !important;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.a {
+    all: none;
+}
+
+.content {
+    max-width: 50%;
+    justify-content: left;
     position: absolute;
-    left: 40%;
 }
