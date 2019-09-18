@@ -13,8 +13,8 @@ html {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.a {
-    all: none;
+a {
+    color: #E5E5E5;
 }
 
 .content {
