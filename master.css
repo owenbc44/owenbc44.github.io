@@ -20,5 +20,10 @@ a {
 .content {
     max-width: 90%;
     justify-content: left;
+}
+
+.intro{
+    max-width: 50%;
+    justify-content: left;
     position: absolute;
 }
